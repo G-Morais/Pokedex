@@ -14,6 +14,7 @@ body {
 h1 {
 	text-align: center;
 	font-size: 54px;
+	color: #000;
 }
 
 .pokedex {
@@ -37,12 +38,13 @@ h1 {
   display: block;
   width: 50%;
   height: 45%;
-  border-radius: 100%;
+  border-radius: 10%;
   background-color: #fff;
   opacity: .7;
   position: absolute;
   top: 15%;
   left: 25%;
+  box-shadow: #000;
 }
 
 .steel {
